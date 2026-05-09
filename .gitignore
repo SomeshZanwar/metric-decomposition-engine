@@ -17,3 +17,6 @@ data/raw/
 # OS
 .DS_Store
 Thumbs.db 
+
+# Allow sample data for demo
+!sample_data/github_events_sample.csv
