@@ -6,6 +6,11 @@ This solves the most common ad-hoc request product analysts get: "DAU dropped 12
 
 Instead of spending hours slicing data manually, this engine runs the investigation automatically and outputs a stakeholder-ready report in seconds.
 
+## Live Demo
+**[→ Open Metric Change Investigator](https://metric-change-investigator.streamlit.app/)**
+
+No setup needed. Load sample GitHub Archive data and run a decomposition in 30 seconds.
+
 ## What It Does
 
 1. Takes any event-based metric (e.g., PushEvents, PullRequestEvents) across two time periods
